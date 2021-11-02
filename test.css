@@ -6,15 +6,14 @@
 header {
 	display: flex;
 	justify-content: space-between;
-    padding: 0 1em;
+	padding: 0 1em;
 }
-body{
-    /* background-image: url("IMG_20201125_163337_793.jpg"); */
-    /* background-repeat: no-repeat; */
-    
+body {
+	/* background-image: url("IMG_20201125_163337_793.jpg"); */
+	/* background-repeat: no-repeat; */
 }
 header span {
-	letter-spacing:0.3em;
+	letter-spacing: 0.3em;
 	color: burlywood;
 }
 ul {
@@ -25,23 +24,20 @@ ul {
 ul li a {
 	text-decoration: none;
 }
-section div p{
-    margin: 20px;
-    padding: 50px;
-    font-size: 40px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+section div p {
+	margin: 20px;
+	padding: 50px;
+	font-size: 40px;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 section {
-    text-align: center;
-    background-color: darkgoldenrod;
-
+	text-align: center;
+	background-color: gray;
 }
-    
-section div button{
-    color: coral;
-    border-radius: 5px;
-    font-size: 20px;
-    margin-bottom: 7em;
-    
+
+section div button {
+	color: coral;
+	border-radius: 5px;
+	font-size: 20px;
+	margin-bottom: 7em;
 }
